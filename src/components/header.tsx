@@ -28,11 +28,6 @@ export function Header() {
             <UtensilsCrossed className="h-4 w-4" />
             Login
           </NavLink>
-
-          <NavLink to="/sign-up">
-            <UtensilsCrossed className="h-4 w-4" />
-            Created
-          </NavLink>
         </nav>
         <div className="ml-auto flex items-center gap-2">
           <ThemeToggle />
