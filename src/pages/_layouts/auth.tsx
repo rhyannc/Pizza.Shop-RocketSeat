@@ -11,6 +11,7 @@ export function AuthLayout() {
           backgroundSize: 'cover',
           backgroundRepeat: 'no-repeat',
           backgroundPosition: 'center',
+          width='100%',
         }}
       >
         <div className="flex items-center gap-3 text-lg text-foreground">
