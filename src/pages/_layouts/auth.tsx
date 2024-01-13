@@ -7,7 +7,7 @@ export function AuthLayout() {
       <div
         className="flex h-full flex-col justify-between border-r border-foreground/5 bg-muted p-10 text-muted-foreground"
         style={{
-          backgroundImage: 'url(src/img/bg.jpg)',
+          backgroundImage: 'url(/src/img/bg.jpg)',
           backgroundSize: 'cover',
           backgroundRepeat: 'no-repeat',
           backgroundPosition: 'center',
